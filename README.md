@@ -1,1 +1,1 @@
-# SeatingArrangementsusingpython
+# Seating Arrangements using Python
