@@ -205,5 +205,5 @@ for i in range(n):
       temp=random.choice(M)
       Seat[temp[0]][temp[1]][temp[2]]=passenger_id
       Power.remove(passenger_id)
-      m.remove(temp)
+      M.remove(temp)
 
